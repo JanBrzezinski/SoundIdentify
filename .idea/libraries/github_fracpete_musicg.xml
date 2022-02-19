@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="github.fracpete.musicg" type="repository">
+    <properties maven-id="com.github.fracpete:musicg:1.4.2.2" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/fracpete/musicg/1.4.2.2/musicg-1.4.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
