@@ -2,7 +2,9 @@ import org.jtransforms.fft.DoubleFFT_1D;
 
 /**
  * Class that uses Fast Fourier Transform to calculate frequency of the sound.<br>
- * Use the extractFrequency() method to find a frequency of a sound given in its parameters.
+ * Use the extractFrequency() method to find a frequency of a sound given in its parameters.<br><br>
+ * The class is based on code from: https://stackoverflow.com/questions/7649003/jtransforms-fft-in-android-from-pcm-data?lq=1
+ * written by Shirkrin (StackOverflow user).
  */
 public class FrequencyScanner {
     private double[] window; //FFT Window
